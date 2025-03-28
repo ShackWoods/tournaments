@@ -1,2 +1,10 @@
-# tournaments
-I guess I can host tournaments
+Title
+=====
+
+I guess I can host tournament
+
+#Active Tournaments
+***Wow, such empty***
+
+#Archived Good Stuff
+***Wow, such empty***
